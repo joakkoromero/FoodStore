@@ -57,4 +57,4 @@ Este repositorio contiene el código fuente completo del proyecto.
 
 ## Documentación PDF
 
-PEGAR AQUÍ EL LINK DEL PDF
+https://drive.google.com/file/d/1tf_wowOw_NliWE6dEOyufAVABviCjbFO/view?usp=drive_link 
